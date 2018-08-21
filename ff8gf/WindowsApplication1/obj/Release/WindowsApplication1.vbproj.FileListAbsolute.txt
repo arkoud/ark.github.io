@@ -1,0 +1,10 @@
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+D:\用户目录\我的文档\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
